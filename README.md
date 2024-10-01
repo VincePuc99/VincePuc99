@@ -30,7 +30,7 @@ I’m always open to collaboration and discussions about technology, programming
 
 ## Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/VincePuc99">
   <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=VincePuc99&show_icons=true&hide=prs&theme=transparent&locale=en&rank_icon=github" />
 </a>
 
@@ -38,7 +38,7 @@ I’m always open to collaboration and discussions about technology, programming
   <img height=150 src="https://widgetbite.com/stats/VincePuc99" alt="watching_count" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/VincePuc99/ArloUSB-AnyRPi">
   <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VincePuc99&repo=ArloUSB-AnyRPi&theme=transparent&locale=en&show_owner=true" />
 </a>
 
