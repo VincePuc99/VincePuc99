@@ -6,7 +6,7 @@
 
 Hello! I'm Vince, a dedicated software developer with a love for creating innovative solutions and contributing to the open-source community. My projects span a variety of technologies, showcasing my skills in web development, data analysis, and automation.
 
-I'm proud of [ArloUSB-AnyRPi](https://github.com/VincePuc99/ArloUSB-AnyRPi) check it out!
+Proud of [ArloUSB-AnyRPi](https://github.com/VincePuc99/ArloUSB-AnyRPi) check it out!
 
 🔧 Tech Stack:
 
@@ -47,3 +47,11 @@ I’m always open to collaboration and discussions about technology, programming
 </a>
 
 ## Contacts
+
+[![LinkedIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-puca99/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vinz.puca99)
+
+
+
+
