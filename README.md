@@ -49,7 +49,6 @@ I’m always open to collaboration and discussions about technology, programming
 ## Contacts
 
 [![LinkedIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-puca99/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vinz.puca99)
 
 
