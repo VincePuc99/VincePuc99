@@ -42,7 +42,7 @@ I’m always open to collaboration and discussions about technology, programming
   <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VincePuc99&repo=ArloUSB-AnyRPi&theme=transparent&locale=en&show_owner=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/VincePuc99">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincePuc99&theme=transparent&locale=en&layout=compact" />
 </a>
 
