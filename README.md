@@ -16,13 +16,14 @@ Proud of [ArloUSB-AnyRPi](https://github.com/VincePuc99/ArloUSB-AnyRPi) check it
 
 🌟 Notable Projects:
 
-- Web Applications: Developed dynamic web apps using React and Node.js that enhance user experience and engagement.
+- General Projects: Wrote a program in basically every high level language, check it in my repos!
 - Data Projects: Worked on data analysis and visualization projects, leveraging Python libraries to derive insights from datasets.
 - Automation Scripts: Created automation scripts to streamline repetitive tasks and improve efficiency.
+- Web Applications: Developed dynamic web apps using React and Node.js that enhance user experience and engagement.
   
 💡 Always Learning: 
 
-I believe in continuous growth and regularly explore new technologies and methodologies to stay updated in the fast-evolving tech landscape.
+I believe in continuous growth and regularly explore new technologies and methodologies to stay updated in the tech landscape.
 
 🌐 Let's Connect:
 
