@@ -44,7 +44,7 @@ I’m always open to collaboration and discussions about technology, programming
 </a>
 
 <a href="https://github.com/VincePuc99">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincePuc99&theme=transparent&locale=en&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincePuc99&theme=transparent&locale=en&layout=compact&hide=html" />
 </a>
 
 ## Contacts
