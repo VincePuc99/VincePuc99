@@ -6,7 +6,7 @@
 
 Hello! I'm Vince, a dedicated software developer with a love for creating innovative solutions and contributing to the open-source community. My projects span a variety of technologies, showcasing my skills in backend development, data analysis, and automation.
 
-Proud of [ArloSelfCloud-RPi](https://github.com/VincePuc99/ArloUSB-AnyRPi) check it out!
+Proud of [ArloSelfCloud-RPi](https://github.com/VincePuc99/ArloSelfCloud-RPi) check it out!
 
 🔧 Tech Stack:
 
