@@ -27,14 +27,6 @@ Proud of [ArloSelfCloud-RPi](https://github.com/VincePuc99/ArloSelfCloud-RPi) ch
   <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=VincePuc99&show_icons=true&hide=prs&theme=transparent&locale=en&rank_icon=github" />
 </a>
 
-<a>
-  <img height=150 src="https://widgetbite.com/stats/VincePuc99" alt="watching_count" />
-</a>
-
-<a href="https://github.com/VincePuc99/ArloSelfCloud-RPi">
-  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VincePuc99&repo=ArloSelfCloud-RPi&theme=transparent&locale=en&show_owner=true" />
-</a>
-
 <a href="https://github.com/VincePuc99">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincePuc99&theme=transparent&locale=en&layout=compact&hide=html" />
 </a>
