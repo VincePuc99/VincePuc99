@@ -21,14 +21,6 @@ Proud of [ArloSelfCloud-RPi](https://github.com/VincePuc99/ArloSelfCloud-RPi) ch
 - Automation Scripts: Created automation scripts to streamline repetitive tasks and improve efficiency.
 - Web Applications: Developed dynamic web apps using React and Node.js that enhance user experience and engagement.
   
-💡 Always Learning: 
-
-I believe in continuous growth and regularly explore new technologies and methodologies to stay updated in the tech landscape.
-
-🌐 Let's Connect:
-
-I’m always open to collaboration and discussions about technology, programming, and innovative ideas. Feel free to check out my repositories and reach out!
-
 ## Statistics
 
 <a href="https://github.com/VincePuc99">
