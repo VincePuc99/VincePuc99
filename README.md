@@ -10,9 +10,10 @@ Proud of [ArloCloud-RPi](https://github.com/VincePuc99/ArloCloud-RPi) check it o
 
 🔧 Tech Stack:
 
+- OS: Windows, MacOS, Linux - Debian, Android, iOS - iPadOS.
 - Languages: Python, JavaScript, Java, C++, C, C#, Shell Bash, Kotlin, Objective C and more!
-- Frameworks: React, Node.js, Gatsby, Android-Room
-- Tools: Git, Docker, DBEaver, VS Code, and much more!
+- Frameworks: React, Node.js, Gatsby, Android-Room, Spring-Boot very soon!
+- Tools: Git, Docker, DBEaver, VS Code,CloudFlare Dashboard, Google GSuite, and much more!
 
 🌟 Notable Projects:
 
