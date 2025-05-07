@@ -10,17 +10,17 @@ Proud of [ArloCloud-RPi](https://github.com/VincePuc99/ArloCloud-RPi) check it o
 
 🔧 Tech Stack:
 
-- OS: Windows, MacOS, Linux - Debian, Android, iOS - iPadOS.
-- Languages: Python, JavaScript, Java, C++, C, C#, Shell Bash, Kotlin, Objective C and more!
-- Frameworks: React, Node.js, Gatsby, Android-Room, Spring-Boot very soon!
-- Tools: Git, Docker, DBEaver, VS Code, CloudFlare Dashboard, Google GSuite, and much more!
+- ***OS*** - Windows, MacOS, Linux - Debian, Android, iOS - iPadOS.
+- ***Languages*** - Python, JavaScript, Java, C++, C, C#, Shell Bash, Kotlin, Objective C and more!
+- ***Frameworks*** - React, Node.js, Gatsby, Android-Room, Spring-Boot very soon!
+- ***Tools*** - Git, Docker, DBEaver, VS Code, CloudFlare Dashboard, Google GSuite, and much more!
 
 🌟 Notable Projects:
 
-- General Projects: Wrote a program in basically every high level language, check it in my repos!
-- Data Projects: Worked on data analysis and visualization projects, leveraging Python libraries to derive insights from datasets.
-- Automation Scripts: Created automation scripts to streamline repetitive tasks and improve efficiency.
-- Web Applications: Developed dynamic web apps using React and Node.js that enhance user experience and engagement.
+- ***General Projects*** - Wrote a program in basically every high level language, check it in my repos!
+- ***Data Projects*** - Worked on data analysis and visualization projects, leveraging Python libraries to derive insights from datasets.
+- ***Automation Scripts*** - Created automation scripts to streamline repetitive tasks and improve efficiency.
+- ***Web Applications*** - Developed dynamic web apps using React and Node.js that enhance user experience and engagement.
   
 ## Statistics
 
