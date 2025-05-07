@@ -29,5 +29,5 @@ Proud of [ArloCloud-RPi](https://github.com/VincePuc99/ArloCloud-RPi) check it o
 </a>
 
 <a href="https://github.com/VincePuc99">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincePuc99&theme=transparent&locale=en&layout=compact&hide=html" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincePuc99&theme=transparent&locale=en&layout=compact&hide=html&langs_count=10" />
 </a>
