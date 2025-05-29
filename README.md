@@ -1,4 +1,4 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/a185d2c9-19da-4a70-907c-b1664ead1b74">
+<img width="1834" src="https://github.com/user-attachments/assets/a185d2c9-19da-4a70-907c-b1664ead1b74">
 
 <div align="center">
 
