@@ -18,11 +18,9 @@ Being recognized by **Selfh.st** is a huge milestone for me — it’s a go-to s
     <img height="40" alt="Get it on Github" src="https://github.com/user-attachments/assets/6ec56c0a-aaf0-4d3e-8637-d75997f4dac1" />
   </a>
 
-  
 </div>
 
----
-
+## Statistics
 
 🔧 Tech Stack:
 
@@ -37,13 +35,15 @@ Being recognized by **Selfh.st** is a huge milestone for me — it’s a go-to s
 - ***Data Projects*** - Worked on data analysis and visualization projects, leveraging Python libraries to derive insights from datasets.
 - ***Automation Scripts*** - Created automation scripts to streamline repetitive tasks and improve efficiency.
 - ***Web Applications*** - Developed dynamic web apps using React and Node.js that enhance user experience and engagement.
-  
-## Statistics
+
+<div align="center">
 
 <a href="https://github.com/VincePuc99">
-  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=VincePuc99&show_icons=true&hide=prs&theme=transparent&locale=en&rank_icon=github" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=VincePuc99&show_icons=true&hide=prs&theme=transparent&locale=en&rank_icon=github" />
 </a>
 
 <a href="https://github.com/VincePuc99">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincePuc99&theme=transparent&locale=en&layout=compact&hide=html&langs_count=8" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincePuc99&theme=transparent&locale=en&layout=compact&hide=html&langs_count=8" />
 </a>
+
+</div>
