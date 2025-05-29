@@ -35,7 +35,7 @@ Being recognized by **Selfh.st** is a huge milestone for me — it’s a go-to s
 - ***Data Projects*** - Worked on data analysis and visualization projects, leveraging Python libraries to derive insights from datasets.
 - ***Automation Scripts*** - Created automation scripts to streamline repetitive tasks and improve efficiency.
 - ***Web Applications*** - Developed dynamic web apps using React and Node.js that enhance user experience and engagement.
-
+---
 <div align="center">
 
 <a href="https://github.com/VincePuc99">
