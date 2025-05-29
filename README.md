@@ -1,22 +1,25 @@
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/a185d2c9-19da-4a70-907c-b1664ead1b74">
 
+<div align="center">
+
 ## Whoami
 
 🖥️ Passionate Developer | Open Source Enthusiast
 
 Hello! I'm Vince, a dedicated software developer with a love for creating innovative solutions and contributing to the open-source community. My projects span a variety of technologies, showcasing my skills in backend development, data analysis, and automation.
 
----
-### 🚀 Featured by [<img height="20" style="vertical-align: text-bottom; display: inline-block;" src="https://github.com/user-attachments/assets/550c516a-99af-4a05-a9e0-71dd4d5c6637"/>](https://selfh.st/)
+## 🚀 Featured by [<img height="20" style="vertical-align: text-bottom; display: inline-block;" src="https://github.com/user-attachments/assets/550c516a-99af-4a05-a9e0-71dd4d5c6637"/>](https://selfh.st/)
 
+**[ArloCloud-RPi](https://github.com/VincePuc99/ArloCloud-RPi)** has been **featured in [Selfh.st Weekly](https://selfh.st/weekly/2025-05-09/)** — a curated newsletter highlighting standout self-hosted projects! <br>
+Being recognized by **Selfh.st** is a huge milestone for me — it’s a go-to source for discovering top open-source and self-hosted tools.
 
-**[ArloCloud-RPi](https://github.com/VincePuc99/ArloCloud-RPi)** has been **featured in [Selfh.st Weekly](https://selfh.st/weekly/2025-05-09/)** — a curated newsletter highlighting standout self-hosted projects!
+  <p>Check out the project if you haven’t already!</p>
+  <a href="https://github.com/VincePuc99/ArloCloud-RPi">
+    <img height="40" alt="Get it on Github" src="https://github.com/user-attachments/assets/6ec56c0a-aaf0-4d3e-8637-d75997f4dac1" />
+  </a>
 
-Being recognized by **Selfh.st** is a huge milestone for me — it’s a go-to source for discovering top open-source and self-hosted tools. <br>
-Check out the project if you haven’t already!
-
-<a href='https://github.com/VincePuc99/ArloCloud-RPi'><img height=50 alt='Get it on Github' src='https://github.com/user-attachments/assets/6ec56c0a-aaf0-4d3e-8637-d75997f4dac1'/></a>
-
+  
+</div>
 
 ---
 
