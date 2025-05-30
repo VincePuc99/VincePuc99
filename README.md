@@ -4,7 +4,7 @@
 
 ## Whoami
 
-Passionate Developer | Open Source Enthusiast
+Software Developer | Open Source Enthusiast
 
 Hello! I'm Vince, a dedicated software developer with a love for creating innovative solutions and contributing to the open-source community. My projects span a variety of technologies, showcasing my skills in backend development, data analysis, and automation.
 
