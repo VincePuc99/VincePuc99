@@ -1,6 +1,6 @@
-<img width="1834" src="https://github.com/user-attachments/assets/a185d2c9-19da-4a70-907c-b1664ead1b74">
-
+<img width="1834" height="938" alt="Make your README (4)" src="https://github.com/user-attachments/assets/d2d5997f-6a08-46b0-b308-c046ed291fd5" />
 <div align="center">
+
 
 ## Whoami
 
