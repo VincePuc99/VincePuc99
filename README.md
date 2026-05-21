@@ -6,12 +6,12 @@
 
 Software Developer | Open Source Enthusiast
 
-Hello! I'm Vince, a dedicated software developer with a love for creating innovative solutions and contributing to the open-source community. My projects span a variety of technologies, showcasing my skills in backend development, data analysis, and automation.
+Hello! I'm Vince, a dedicated software developer with a love for creating innovative solutions and contributing to the open-source community. My projects span a variety of technologies, showcasing my skills in full-stack development, data analysis, and automation.
 
 ## Featured by [<img height="20" style="vertical-align: text-bottom; display: inline-block;" src="https://github.com/user-attachments/assets/550c516a-99af-4a05-a9e0-71dd4d5c6637"/>](https://selfh.st/)
 
-**[ArloCloud-RPi](https://github.com/VincePuc99/ArloCloud-RPi)** has been **featured in [Selfh.st Weekly](https://selfh.st/weekly/2025-05-09/)** — a curated newsletter highlighting standout self-hosted projects! <br>
-Being recognized by **Selfh.st** is a huge milestone for me — it’s a go-to source for discovering top open-source and self-hosted tools.
+**[ArloCloud-RPi](https://github.com/VincePuc99/ArloCloud-RPi)** has been **featured in [Selfh.st Weekly](https://selfh.st/weekly/2025-05-09/)** - a curated newsletter highlighting standout self-hosted projects! <br>
+Being recognized by **Selfh.st** is a huge milestone for me, it’s a go-to source for discovering top open-source and self-hosted tools.
 
 <p>Check out the project if you haven’t already!</p>
 <a href="https://github.com/VincePuc99/ArloCloud-RPi">
@@ -22,16 +22,17 @@ Being recognized by **Selfh.st** is a huge milestone for me — it’s a go-to s
 
 ## Statistics
 
-🔧 Tech Stack:
+🔧 **Tech Stack:**
 
-- ***OS's*** - Windows, MacOS, Linux - Debian, Android, iOS - iPadOS.
-- ***Languages*** - Python, JavaScript, Java, C++, C, C#, Shell Bash, Kotlin, Objective C and more!
-- ***Frameworks*** - React, Node.js, Gatsby, Android-Room, Jetpack Compose very soon!
-- ***Tools*** - Git, Docker, DBEaver, VS Code, CloudFlare Dashboard, Google GSuite, and much more!
+- **Operating Systems:** Windows, macOS, Linux (Debian), Android, iOS, iPadOS.
+- **Languages:** Python, JavaScript, Java, C++, C, C#, Kotlin, Objective-C, Shell/Bash, and more.
+- **Frameworks & Libraries:** React, Node.js, Vue.js, Vuetify, Gatsby, Android-Room, Jetpack Compose.
+- **Databases:** SQL Server, MySQL, SQLite, MariaDB.
+- **Tools & Platforms:** Git, Docker, DBEaver, VS Code, Cloudflare Dashboard, Google GSuite, and more.
 
-🌟 Notable Projects:
+🌟 **Notable Projects:**
 
-- ***General Projects*** - Wrote a program in basically every high level language, check it in my repos!
-- ***Data Projects*** - Worked on data analysis and visualization projects, leveraging Python libraries to derive insights from datasets.
-- ***Automation Scripts*** - Created automation scripts to streamline repetitive tasks and improve efficiency.
-- ***Web Applications*** - Developed dynamic web apps using React and Node.js that enhance user experience and engagement.
+- **General Projects:** Developed programs in nearly every high-level language—explore my repositories to see them in action!  
+- **Data Projects:** Conducted data analysis and visualization, leveraging Python libraries to uncover actionable insights from datasets.  
+- **Automation Scripts:** Built automation scripts to streamline repetitive tasks and boost efficiency across workflows.  
+- **Web Applications:** Created dynamic web applications focusing on responsive design and engaging user experiences.  
