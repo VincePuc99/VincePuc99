@@ -32,7 +32,7 @@ Being recognized by **Selfh.st** is a huge milestone for me, it’s a go-to sour
 
 🌟 **Notable Projects:**
 
-- **General Projects:** Developed programs in nearly every high-level language—explore my repositories to see them in action!  
+- **General Projects:** Developed programs in nearly every high-level language, explore my repositories to see them in action!  
 - **Data Projects:** Conducted data analysis and visualization, leveraging Python libraries to uncover actionable insights from datasets.  
 - **Automation Scripts:** Built automation scripts to streamline repetitive tasks and boost efficiency across workflows.  
 - **Web Applications:** Created dynamic web applications focusing on responsive design and engaging user experiences.  
